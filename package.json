@@ -1,7 +1,7 @@
 {
-  "name": "understanding-typescript",
+  "name": "ts_drag_and_drop",
   "version": "1.0.0",
-  "description": "Understanding TypeScript Course Setup",
+  "description": "Simple drag and drop app using typescript",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
     "typescript",
     "course"
   ],
-  "author": "Maximilian Schwarzmüller",
+  "author": "Eric Owusu",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.5.4"
